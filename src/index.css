@@ -1,12 +1,14 @@
-*{
+* {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
+  cursor:
+    url("https://cdn.cursors-4u.net/previews/nguechngoac-1-321de15c-48.webp") 16
+      16,
+    auto !important;
 }
 
-body{
+body {
   width: 100%;
   height: 100vh;
 }
-
-
