@@ -1,73 +1,85 @@
-# Hospital Login Page
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/hopewell-hospital.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/hopewell-hospital?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/hopewell-hospital?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/hopewell-hospital?style=for-the-badge&color=blue" />
+</p>
 
-A sleek and modern hospital login page built with React JS, featuring smooth animations and a responsive design. This project utilizes **Framer Motion** for effortless transitions and **Tailwind CSS** for stunning UI styling, ensuring a seamless and easy user experience.
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
 
----
+<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/hopewell-hospital/raw/main/public/favicon/favicon.svg" width="40"/> Hopewell Hospital</h1>
 
-## Features
+<p align="center">
+  A sleek and responsive hospital login page designed with a clean, modern interface and smooth animations for a seamless user experience.
+</p>
 
-- **Smooth Animations**: Powered by Framer Motion for fluid transitions.
-- **Responsive Design**: Fully responsive UI built with Tailwind CSS.
-- **Clean Code**: Well-structured and easy to understand React components.
-- **Modern Look**: Professional design tailored for hospital or healthcare applications.
+![LoginPageDemo](https://github.com/KrishBharadwaj5678/hopewell-hospital/raw/main/assets/demos/loginPage.png)
 
----
+<img src="https://github.com/KrishBharadwaj5678/hopewell-hospital/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## Technologies Used
+## <img src="https://github.com/KrishBharadwaj5678/hopewell-hospital/raw/main/assets/readme/features.gif" width="35"/> Features
 
-- **React JS**: For building the user interface.
-- **Framer Motion**: For animations and transitions.
-- **Tailwind CSS**: For styling and responsive design.
+| Feature | Description |
+|---|---|
+| ✨ Smooth Animations | Fluid transitions for an engaging user experience |
+| 📱 Responsive Design | Adapts seamlessly to desktop, tablet, and mobile devices |
+| 🧩 Clean Structure | Well-organized and easy-to-maintain interface |
 
----
+<img src="https://github.com/KrishBharadwaj5678/hopewell-hospital/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## Installation
+## <img src="https://github.com/KrishBharadwaj5678/hopewell-hospital/raw/main/assets/readme/techStack.gif" width="35"/> Tech Stack
 
-To get started with the project, follow these steps:
+| Technology | Purpose |
+| ---------- | ------- |
+| <img src="https://skillicons.dev/icons?i=html" width="25"/> **HTML5** | Structure of the web application |
+| <img src="https://skillicons.dev/icons?i=react" width="25"/> **React JS** | Building the user interface |
+| <img src="https://github.com/KrishBharadwaj5678/hopewell-hospital/raw/main/assets/icons/framer-motion.svg" width="20"/> **Framer Motion** | Smooth animations and transitions |
+| <img src="https://skillicons.dev/icons?i=tailwind" width="25"/> **Tailwind CSS** | Styling and responsive design |
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/KrishBharadwaj5678/Hospital-Login-Page.git
-   ```
+<img src="https://github.com/KrishBharadwaj5678/hopewell-hospital/raw/main/assets/readme/divider.gif" width="100%"/>
 
-2. Navigate to the project directory:
-   ```bash
-   cd Hospital-Login-Page
-   ```
+## <img src="https://github.com/KrishBharadwaj5678/hopewell-hospital/raw/main/assets/readme/gettingStarted.gif" width="35"/> Getting Started
 
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
+### 1️⃣ Clone the Repository
 
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```
+```bash
+git clone https://github.com/KrishBharadwaj5678/hopewell-hospital.git
+```
 
-5. Open your browser and visit:
-   ```
-   http://localhost:5173
-   ```
+### 2️⃣ Navigate to the Project
 
----
+```bash
+cd hopewell-hospital
+```
 
-## Contributing
+### 3️⃣ Install the dependencies
 
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+```bash
+npm install
+```
 
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Description of changes"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
+### 4️⃣ Start the development server
 
+```bash
+npm run dev
+```
+
+### 5️⃣ Open your browser
+
+<img src="https://github.com/KrishBharadwaj5678/hopewell-hospital/raw/main/assets/readme/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/hopewell-hospital/raw/main/assets/readme/license.gif" width="35"/> License
+
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for more details.
+
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/hopewell-hospital/raw/main/assets/readme/footer.gif" width="320px"/>
+</p>
